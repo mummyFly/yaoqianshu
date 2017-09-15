@@ -1,0 +1,252 @@
+0	09:43:57.023	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	09:43:57.038	Expert CCIϵͳ EURUSD,Daily: removed
+0	09:43:57.054	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	09:43:57.054	CCIϵͳ GBPUSD,Daily: uninit reason 2
+0	09:43:57.054	Expert CCIϵͳ GBPUSD,Daily: removed
+3	09:43:57.054	cannot load 'C:\Users\mummy\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Experts\CCIϵͳ.ex4'
+0	09:43:57.070	CCIϵͳ EURUSD,Daily: initialized
+0	09:43:57.195	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	09:43:57.195	Expert CCIϵͳ EURUSD,Daily: removed
+0	09:43:57.210	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	09:43:57.210	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	09:43:57.210	Expert CCIϵͳ AUDUSD,Daily: removed
+0	09:43:57.210	CCIϵͳ EURUSD,Daily: initialized
+0	09:43:57.226	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	09:43:57.226	CCIϵͳ USDCAD,Daily: uninit reason 2
+0	09:43:57.226	Expert CCIϵͳ USDCAD,Daily: removed
+0	09:43:57.226	CCIϵͳ AUDUSD,Daily: initialized
+0	09:43:57.226	Expert CCIϵͳ USDCAD,Daily: loaded successfully
+0	09:43:57.241	CCIϵͳ USDCAD,Daily: initialized
+0	09:45:20.713	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	09:45:20.713	Expert CCIϵͳ EURUSD,Daily: removed
+0	09:45:20.729	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	09:45:20.729	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	09:45:20.729	Expert CCIϵͳ AUDUSD,Daily: removed
+0	09:45:20.745	CCIϵͳ EURUSD,Daily: initialized
+0	09:45:20.745	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	09:45:20.745	CCIϵͳ USDCAD,Daily: uninit reason 2
+0	09:45:20.745	Expert CCIϵͳ USDCAD,Daily: removed
+0	09:45:20.760	CCIϵͳ AUDUSD,Daily: initialized
+0	09:45:20.760	Expert CCIϵͳ USDCAD,Daily: loaded successfully
+0	09:45:20.760	CCIϵͳ USDCAD,Daily: initialized
+0	09:45:21.042	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	09:45:21.042	Expert CCIϵͳ EURUSD,Daily: removed
+0	09:45:21.057	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	09:45:21.073	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	09:45:21.073	Expert CCIϵͳ AUDUSD,Daily: removed
+0	09:45:21.088	CCIϵͳ EURUSD,Daily: initialized
+0	09:45:21.088	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	09:45:21.088	CCIϵͳ USDCAD,Daily: uninit reason 2
+0	09:45:21.088	Expert CCIϵͳ USDCAD,Daily: removed
+0	09:45:21.104	CCIϵͳ AUDUSD,Daily: initialized
+0	09:45:21.104	Expert CCIϵͳ USDCAD,Daily: loaded successfully
+0	09:45:21.120	CCIϵͳ USDCAD,Daily: initialized
+0	09:50:59.943	Automated trading disabled
+0	10:11:10.139	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:11:10.139	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:11:10.155	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:11:10.155	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:11:10.155	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:11:10.171	CCIϵͳ EURUSD,Daily: initialized
+0	10:11:10.171	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:11:10.171	CCIϵͳ USDCAD,Daily: uninit reason 2
+0	10:11:10.171	Expert CCIϵͳ USDCAD,Daily: removed
+0	10:11:10.171	CCIϵͳ AUDUSD,Daily: initialized
+0	10:11:10.186	Expert CCIϵͳ USDCAD,Daily: loaded successfully
+0	10:11:10.186	CCIϵͳ USDCAD,Daily: initialized
+3	10:19:40.041	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:19:41.588	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+3	10:19:57.182	CCIϵͳ USDCAD,Daily: trade operations not allowed by settings
+0	10:27:14.478	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:27:14.478	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:27:14.494	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:27:14.494	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:27:14.494	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:27:14.509	CCIϵͳ EURUSD,Daily: initialized
+0	10:27:14.509	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:27:14.509	CCIϵͳ USDCAD,Daily: uninit reason 2
+0	10:27:14.509	Expert CCIϵͳ USDCAD,Daily: removed
+0	10:27:14.525	CCIϵͳ AUDUSD,Daily: initialized
+0	10:27:14.525	Expert CCIϵͳ USDCAD,Daily: loaded successfully
+0	10:27:14.540	CCIϵͳ USDCAD,Daily: initialized
+3	10:27:17.885	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+3	10:27:19.165	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:27:20.056	CCIϵͳ USDCAD,Daily: trade operations not allowed by settings
+0	10:34:08.698	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:34:08.698	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:34:08.714	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:34:08.714	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:34:08.729	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:34:08.729	CCIϵͳ EURUSD,Daily: initialized
+0	10:34:08.729	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:34:08.729	CCIϵͳ USDCAD,Daily: uninit reason 2
+0	10:34:08.745	Expert CCIϵͳ USDCAD,Daily: removed
+3	10:34:08.745	cannot load 'C:\Users\mummy\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Experts\CCIϵͳ.ex4'
+0	10:34:08.761	CCIϵͳ AUDUSD,Daily: initialized
+0	10:34:08.948	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:34:08.948	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:34:08.964	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:34:08.979	CCIϵͳ AUDUSD,Daily: initialized
+3	10:34:10.621	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+3	10:34:13.683	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+0	10:36:17.663	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:36:17.663	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:36:17.679	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:36:17.679	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:36:17.679	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:36:17.694	CCIϵͳ EURUSD,Daily: initialized
+0	10:36:17.694	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:36:17.710	CCIϵͳ AUDUSD,Daily: initialized
+3	10:36:22.101	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:36:22.132	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+0	10:36:36.389	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:36:36.389	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:36:36.405	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:36:36.405	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:36:36.405	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:36:36.420	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:36:36.420	CCIϵͳ EURUSD,Daily: initialized
+0	10:36:36.436	CCIϵͳ AUDUSD,Daily: initialized
+3	10:36:53.920	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:36:54.091	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+0	10:39:17.967	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:39:17.967	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:39:17.982	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:39:17.982	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:39:17.982	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:39:17.998	CCIϵͳ EURUSD,Daily: initialized
+0	10:39:17.998	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:39:18.029	CCIϵͳ AUDUSD,Daily: initialized
+0	10:39:18.217	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:39:18.217	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:39:18.232	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:39:18.232	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:39:18.232	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:39:18.248	CCIϵͳ EURUSD,Daily: initialized
+0	10:39:18.248	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:39:18.264	CCIϵͳ AUDUSD,Daily: initialized
+3	10:39:20.654	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:39:21.123	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+0	10:39:32.747	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:39:32.747	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:39:32.763	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:39:32.763	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:39:32.763	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:39:32.779	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:39:32.794	CCIϵͳ EURUSD,Daily: initialized
+0	10:39:32.794	CCIϵͳ AUDUSD,Daily: initialized
+0	10:39:33.060	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:39:33.060	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:39:33.076	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:39:33.076	CCIϵͳ AUDUSD,Daily: initialized
+3	10:39:33.732	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:39:36.576	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+0	10:42:39.164	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:42:39.164	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:42:39.180	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:42:39.180	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:42:39.180	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:42:39.180	CCIϵͳ EURUSD,Daily: initialized
+0	10:42:39.180	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:42:39.211	CCIϵͳ AUDUSD,Daily: initialized
+0	10:42:39.399	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:42:39.399	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:42:39.414	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:42:39.430	CCIϵͳ AUDUSD,Daily: initialized
+3	10:42:41.326	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:42:52.921	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+0	10:49:37.500	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:49:37.500	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:49:37.515	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:49:37.515	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:49:37.515	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:49:37.531	CCIϵͳ EURUSD,Daily: initialized
+0	10:49:37.531	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:49:37.547	CCIϵͳ AUDUSD,Daily: initialized
+3	10:49:38.109	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+3	10:49:38.125	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+0	10:49:38.156	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:49:38.156	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:49:38.172	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:49:38.172	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:49:38.172	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:49:38.187	CCIϵͳ EURUSD,Daily: initialized
+0	10:49:38.187	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:49:38.187	CCIϵͳ AUDUSD,Daily: initialized
+3	10:49:38.266	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+3	10:49:41.718	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+0	10:50:49.447	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:50:49.447	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:50:49.463	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:50:49.463	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:50:49.478	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:50:49.478	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:50:49.494	CCIϵͳ EURUSD,Daily: initialized
+0	10:50:49.509	CCIϵͳ AUDUSD,Daily: initialized
+0	10:50:49.619	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:50:49.619	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:50:49.634	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:50:49.650	CCIϵͳ AUDUSD,Daily: initialized
+0	10:50:49.791	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	10:50:49.791	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:50:49.806	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	10:50:49.806	CCIϵͳ AUDUSD,Daily: initialized
+3	10:50:49.822	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+3	10:50:50.916	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+0	11:34:44.685	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	11:34:44.685	Expert CCIϵͳ EURUSD,Daily: removed
+0	11:34:44.701	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	11:34:44.701	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	11:34:44.701	Expert CCIϵͳ AUDUSD,Daily: removed
+0	11:34:44.716	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	11:34:44.716	CCIϵͳ EURUSD,Daily: initialized
+0	11:34:44.732	CCIϵͳ AUDUSD,Daily: initialized
+3	11:34:44.826	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+0	11:34:45.060	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	11:34:45.060	Expert CCIϵͳ EURUSD,Daily: removed
+0	11:34:45.076	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	11:34:45.076	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	11:34:45.076	Expert CCIϵͳ AUDUSD,Daily: removed
+0	11:34:45.091	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	11:34:45.091	CCIϵͳ EURUSD,Daily: initialized
+0	11:34:45.091	CCIϵͳ AUDUSD,Daily: initialized
+3	11:34:45.655	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+3	11:34:46.748	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+0	11:36:10.722	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	11:36:10.722	Expert CCIϵͳ EURUSD,Daily: removed
+0	11:36:10.738	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	11:36:10.738	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	11:36:10.738	Expert CCIϵͳ AUDUSD,Daily: removed
+0	11:36:10.753	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	11:36:10.753	CCIϵͳ EURUSD,Daily: initialized
+0	11:36:10.785	CCIϵͳ AUDUSD,Daily: initialized
+0	11:36:10.894	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	11:36:10.894	Expert CCIϵͳ AUDUSD,Daily: removed
+0	11:36:10.910	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	11:36:10.910	CCIϵͳ AUDUSD,Daily: initialized
+0	11:36:11.191	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	11:36:11.191	Expert CCIϵͳ EURUSD,Daily: removed
+0	11:36:11.206	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	11:36:11.206	CCIϵͳ AUDUSD,Daily: uninit reason 2
+0	11:36:11.206	Expert CCIϵͳ AUDUSD,Daily: removed
+0	11:36:11.222	CCIϵͳ EURUSD,Daily: initialized
+0	11:36:11.222	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	11:36:11.222	CCIϵͳ AUDUSD,Daily: initialized
+3	11:36:21.743	CCIϵͳ AUDUSD,Daily: trade operations not allowed by settings
+3	11:36:28.273	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+0	11:37:23.155	CCIϵͳ EURUSD,Daily: uninit reason 9
+0	11:37:23.155	BBI EURUSD,Daily: uninit reason 9
+0	11:37:23.155	BBI GBPUSD,Daily: uninit reason 9
+0	11:37:23.155	CCIϵͳ AUDUSD,Daily: uninit reason 9
+0	11:37:23.544	Expert CCIϵͳ EURUSD,Daily: removed
+0	11:37:23.560	Custom indicator BBI EURUSD,Daily: removed
+0	11:37:23.560	Custom indicator BBI GBPUSD,Daily: removed
+0	11:37:23.560	Expert CCIϵͳ AUDUSD,Daily: removed
+0	11:37:44.123	Custom indicator BBI EURUSD,Daily: loaded successfully
+0	11:37:44.138	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	11:37:44.138	CCIϵͳ EURUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_lose=700.0; MAX_profit=200.0; Start_account=10000.0; Percent=0.1; 
+0	11:37:44.154	BBI EURUSD,Daily: initialized
+0	11:37:44.184	Custom indicator BBI GBPUSD,Daily: loaded successfully
+0	11:37:44.200	BBI GBPUSD,Daily: initialized
+0	11:37:44.247	Expert CCIϵͳ AUDUSD,Daily: loaded successfully
+0	11:37:44.247	CCIϵͳ AUDUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_lose=700.0; MAX_profit=200.0; Start_account=10000.0; Percent=0.1; 

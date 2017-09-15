@@ -1,0 +1,887 @@
+0	12:18:31.018	Custom indicator BBI EURUSD,Daily: loaded successfully
+0	12:18:32.924	BBI EURUSD,Daily: initialized
+0	12:23:25.321	Custom indicator BBI GBPUSD,H1: loaded successfully
+0	12:23:26.102	BBI GBPUSD,H1: initialized
+0	12:23:29.305	BBI GBPUSD,H1: uninit reason 3
+0	12:23:29.305	BBI GBPUSD,Daily: initialized
+0	15:19:22.508	Compiling '白线战法'
+0	16:32:36.583	Compiling 'BBI均线系统'
+0	16:32:40.099	Compiling 'DMI系统'
+0	17:25:27.330	BBI EURUSD,Daily: uninit reason 9
+0	17:25:27.345	BBI GBPUSD,Daily: uninit reason 9
+0	17:25:28.486	Custom indicator BBI EURUSD,Daily: removed
+0	17:25:28.486	Custom indicator BBI GBPUSD,Daily: removed
+0	17:35:56.987	Custom indicator BBI EURUSD,Daily: loaded successfully
+0	17:35:57.003	BBI EURUSD,Daily: initialized
+0	17:35:57.112	Custom indicator BBI GBPUSD,H1: loaded successfully
+0	17:35:57.144	BBI GBPUSD,H1: initialized
+0	17:35:57.206	Custom indicator BBI EURUSD,Daily: loaded successfully
+0	17:35:57.221	BBI EURUSD,Daily: initialized
+0	17:35:57.268	Custom indicator BBI GBPUSD,Daily: loaded successfully
+0	17:35:57.283	BBI GBPUSD,Daily: initialized
+0	19:02:11.197	BBI GBPUSD,H1: uninit reason 9
+0	19:02:11.197	Custom indicator BBI GBPUSD,H1: removed
+0	19:02:13.947	BBI EURUSD,Daily: uninit reason 9
+0	19:02:13.947	Custom indicator BBI EURUSD,Daily: removed
+0	19:02:45.071	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:03:08.570	Expert CCI系统 EURUSD,Daily: removed
+0	19:04:00.893	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:04:13.955	Expert CCI系统 EURUSD,Daily: removed
+0	19:04:53.375	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:05:03.250	Expert CCI系统 EURUSD,Daily: removed
+0	19:05:50.499	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:05:56.295	Expert CCI系统 EURUSD,Daily: removed
+0	19:06:08.608	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:06:14.389	CCI系统 EURUSD,Daily inputs: CCI_period=14; volumn=0.1; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:06:14.404	CCI系统 EURUSD,Daily: initialized
+0	19:06:15.218	CCI系统 EURUSD,Daily: 开始卖出
+3	19:06:15.218	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	19:06:15.218	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:15.296	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:15.296	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:15.404	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:15.404	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:15.670	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:15.670	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:15.717	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:15.717	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:15.780	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:15.780	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.061	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.061	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.155	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.155	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.264	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.264	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.435	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.435	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.514	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.514	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.576	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.576	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.717	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.717	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:16.779	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:16.779	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:17.045	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:17.045	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:17.092	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:17.092	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:17.702	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:17.702	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:17.921	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:17.921	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:18.061	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:18.061	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:18.233	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:18.233	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:18.701	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:18.701	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:18.936	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:18.936	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:19.155	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:19.155	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:19.217	CCI系统 EURUSD,Daily: uninit reason 1
+0	19:06:19.232	Expert CCI系统 EURUSD,Daily: removed
+0	19:06:19.248	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:06:24.201	CCI系统 EURUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:06:24.217	CCI系统 EURUSD,Daily: initialized
+0	19:06:24.217	CCI系统 EURUSD,Daily: 开始卖出
+3	19:06:24.217	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	19:06:24.217	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:24.279	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:24.279	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:24.404	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:24.404	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:24.733	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:24.733	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:24.796	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:24.796	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:25.436	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:25.436	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:27.342	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:27.342	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:27.530	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:27.530	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:27.624	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:27.624	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:27.763	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:27.763	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:27.857	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:27.857	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:27.951	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:27.951	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.046	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.046	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.139	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.139	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.248	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.248	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.389	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.389	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.466	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.466	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.544	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.544	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.670	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.670	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.764	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.764	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.873	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.873	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:28.998	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:28.998	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:29.076	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:29.076	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:29.218	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:29.218	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:29.420	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:29.420	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:29.857	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:29.857	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:29.920	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:29.920	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:31.030	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:31.030	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:31.092	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:31.092	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:31.202	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:31.202	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:31.280	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:31.280	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:31.404	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:31.404	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:31.733	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:31.733	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:31.967	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:31.967	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:32.904	BBI GBPUSD,Daily: uninit reason 3
+0	19:06:32.904	BBI GBPUSD,Weekly: initialized
+0	19:06:34.873	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:34.873	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:35.154	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:35.154	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:35.169	BBI GBPUSD,Weekly: uninit reason 3
+0	19:06:35.169	BBI GBPUSD,Daily: initialized
+0	19:06:36.279	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:36.279	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:36.357	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:36.357	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:36.466	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:36.466	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:36.591	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:36.591	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:36.685	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:36.685	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:36.732	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:36.732	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:38.076	BBI GBPUSD,Daily: uninit reason 3
+0	19:06:38.154	BBI GBPUSD,H4: initialized
+0	19:06:38.169	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:38.169	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:38.201	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:38.201	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:38.310	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:38.310	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:38.372	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:38.372	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:40.435	BBI GBPUSD,H4: uninit reason 3
+0	19:06:40.435	BBI GBPUSD,Daily: initialized
+0	19:06:41.841	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:41.841	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:42.107	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:42.107	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:42.576	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:42.576	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:42.700	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:42.700	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:42.747	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:42.747	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:42.872	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:42.872	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:42.967	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:42.967	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.030	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.030	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.123	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.123	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.247	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.247	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.310	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.310	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.419	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.419	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.513	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.513	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.592	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.592	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.654	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.654	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.748	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.748	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:43.888	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:43.888	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:44.372	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:44.372	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:44.466	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:44.466	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:44.607	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:44.607	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:44.748	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:44.748	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:44.779	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:44.779	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:44.872	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:44.872	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:44.966	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:44.966	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.044	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.044	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.107	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.107	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.232	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.232	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.310	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.310	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.513	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.513	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.700	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.700	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.732	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.732	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.919	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.919	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:45.966	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:45.966	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.060	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.060	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.232	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.232	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.341	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.341	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.419	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.419	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.606	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.606	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.638	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.638	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.716	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.716	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.809	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.809	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.872	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.872	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:46.967	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:46.967	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.013	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.013	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.153	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.153	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.200	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.200	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.278	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.278	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.372	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.372	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.450	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.450	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.544	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.544	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:47.872	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:47.872	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:48.106	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:48.106	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:48.403	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:48.403	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:48.607	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:48.607	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:48.935	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:48.935	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:50.153	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:50.153	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:50.434	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:50.434	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:50.591	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:50.591	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:50.623	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:50.623	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:50.732	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:50.732	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:50.826	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:50.826	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:50.904	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	19:06:50.966	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:50.966	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:51.169	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:51.169	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:51.591	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:51.591	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:51.669	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:51.669	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:51.872	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:51.872	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:52.264	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:52.264	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:52.450	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:52.450	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:53.451	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:53.451	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:53.544	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:53.544	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:53.794	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:53.794	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:53.841	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:53.841	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:53.919	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:53.919	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:53.997	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:53.997	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:54.060	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:54.060	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:54.638	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:54.638	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:54.700	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:54.700	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:54.778	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:54.778	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:54.919	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:54.919	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:55.154	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:55.154	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:57.169	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:57.169	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:57.606	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:57.606	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:57.934	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:57.934	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:58.044	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:58.044	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:58.138	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:58.138	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:58.293	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:58.293	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:58.481	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:58.481	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:58.591	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:58.591	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:58.857	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:58.857	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:59.216	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:59.216	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:59.341	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:59.341	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:06:59.418	CCI系统 USDCAD,Daily inputs: CCI_period=14; volumn=0.1; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:06:59.481	CCI系统 USDCAD,Daily: initialized
+0	19:06:59.623	CCI系统 EURUSD,Daily: 开始卖出
+0	19:06:59.623	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:00.356	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:00.356	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:00.387	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:00.387	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:00.497	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:00.497	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:00.653	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:00.653	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:00.872	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:00.872	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:00.982	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:00.982	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:01.200	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:01.200	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:01.825	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:01.825	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:01.934	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:01.934	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:02.215	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:02.215	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:02.309	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:02.309	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:02.434	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:02.434	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:03.029	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:03.029	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:03.075	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	19:07:03.700	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:03.700	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:03.794	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:03.794	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:03.918	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:03.918	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:03.996	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:03.996	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:04.106	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:04.106	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:04.137	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:04.137	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:04.246	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:04.246	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:04.762	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:04.762	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:04.888	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:04.888	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:04.982	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:04.982	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:05.387	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:05.387	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:05.482	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:05.482	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:05.606	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:05.606	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:06.309	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:06.309	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:06.637	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:06.637	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:06.731	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:06.731	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:06.840	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:06.840	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:06.950	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:06.950	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:07.027	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:07.027	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:07.106	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:07.106	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:07.278	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:07.278	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:07.371	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:07.371	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:07.715	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:07.715	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:07.856	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:07.856	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:07.887	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:07.887	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:08.028	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:08.028	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:08.153	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:08.153	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:08.512	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:08.512	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:09.293	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:09.293	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:09.309	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:09.309	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:09.434	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:09.434	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:09.778	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:09.778	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:09.841	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:09.841	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:09.872	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:09.872	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:09.980	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:09.980	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:10.027	CCI系统 AUDUSD,Daily inputs: CCI_period=14; volumn=0.1; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:07:10.090	CCI系统 AUDUSD,Daily: initialized
+0	19:07:10.105	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:10.105	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:10.153	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:10.153	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:10.560	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:10.560	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:10.590	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:10.590	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:10.668	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:10.668	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:10.762	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:10.762	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:10.981	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:10.981	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:11.559	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:11.559	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:11.590	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:11.590	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:12.043	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:12.043	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:12.153	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:12.153	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:12.231	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:12.231	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:12.325	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:12.325	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:12.544	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:12.544	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:12.716	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:12.716	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:12.965	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:12.965	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:13.027	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:13.027	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:13.121	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:13.121	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:13.621	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:13.621	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:13.731	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:13.731	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:13.825	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:13.825	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:13.934	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:13.934	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:14.027	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:14.027	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:14.371	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	19:07:14.512	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:14.512	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:14.683	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:14.683	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:14.699	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:14.699	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:14.793	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:14.793	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:14.980	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:14.980	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:15.262	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:15.262	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:15.465	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:15.465	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:15.590	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:15.590	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:15.700	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:15.700	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:15.824	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:15.824	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:15.871	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:15.871	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:15.949	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:15.949	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:16.028	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:16.028	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:16.699	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:16.699	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:16.793	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:16.793	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:16.871	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:16.871	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:17.106	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:17.106	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:17.168	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:17.168	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:17.262	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:17.262	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:17.433	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:17.433	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:17.887	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:17.887	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:18.371	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:18.371	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:18.449	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:18.449	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:18.949	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:18.949	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:19.231	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:19.231	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:19.324	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:19.324	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:19.418	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:19.418	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:19.480	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:19.480	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:19.778	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:19.778	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:20.341	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:20.341	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:20.481	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:20.481	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:20.652	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:20.652	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:20.668	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:20.668	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:20.762	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:20.762	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:20.871	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:20.871	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.028	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.028	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.090	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.090	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.152	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.152	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.262	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.262	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.340	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.340	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.434	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.434	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.496	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.496	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.575	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.575	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.652	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.652	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.777	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.777	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.809	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.809	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.887	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.887	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:21.981	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:21.981	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:22.044	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:22.044	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:22.200	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:22.200	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:22.403	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:22.403	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:22.527	CCI系统 GBPUSD,Daily inputs: CCI_period=14; volumn=0.1; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:07:22.543	CCI系统 GBPUSD,Daily: initialized
+0	19:07:22.590	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:22.590	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:22.715	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:22.715	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:22.855	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:22.855	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:23.340	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:23.340	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:23.402	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:23.402	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:23.480	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:23.480	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:23.591	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:23.591	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:23.730	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:23.730	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:23.871	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:23.871	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:23.949	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:23.949	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:24.074	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:24.074	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:24.542	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:24.542	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:24.605	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:24.605	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:24.730	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:24.730	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:24.808	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:24.808	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:24.918	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:24.918	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:24.996	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:24.996	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:25.075	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:25.075	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:25.621	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:25.621	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:26.027	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:26.027	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:26.183	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:26.183	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:26.277	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:26.277	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:26.417	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:26.417	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:26.511	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:26.511	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:26.933	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:26.933	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:26.996	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:26.996	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:27.089	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:27.089	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:27.152	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:27.152	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:27.261	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:27.261	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:27.339	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:27.339	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:27.480	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:27.480	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:27.495	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:27.495	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:28.089	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:28.089	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:28.433	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:28.433	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:28.449	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:28.449	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:28.543	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:28.543	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:28.777	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:28.777	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:28.855	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:28.855	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:28.949	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:28.949	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:29.152	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:29.152	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:29.355	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:29.355	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:29.417	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:29.417	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:29.605	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:29.605	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.027	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.027	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.106	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.106	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.199	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.199	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.308	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.308	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.386	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.386	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.480	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.480	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.761	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.761	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:30.964	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:30.964	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:31.199	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:31.199	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:31.370	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:31.370	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:31.449	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:31.449	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:31.511	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:31.511	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:31.684	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:31.684	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:07:31.808	Automated trading enabled
+0	19:07:31.965	CCI系统 EURUSD,Daily: 开始卖出
+0	19:07:32.309	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:07:32.309	CCI系统 EURUSD,Daily: 开始卖出
+2	19:07:32.667	CCI系统 EURUSD,Daily: open #154645796 sell 1.00 EURUSD at 1.18948 ok
+0	19:08:14.041	CCI系统 EURUSD,Daily: uninit reason 5
+0	19:08:14.056	CCI系统 EURUSD,Daily: initialized
+0	19:08:14.134	CCI系统 EURUSD,Daily inputs: CCI_period=14; volumn=0.1; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:08:16.431	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:16.811	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:16.811	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:17.140	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:17.140	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:17.483	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:17.483	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:17.812	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:17.812	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:18.124	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:18.124	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:18.468	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:18.468	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:18.781	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:18.781	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:19.140	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:19.140	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:19.483	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:19.483	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:19.827	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:19.827	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:20.155	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:20.155	CCI系统 EURUSD,Daily: 开始卖出
+0	19:08:20.500	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:08:20.500	CCI系统 EURUSD,Daily: 开始卖出
+2	19:08:20.843	CCI系统 EURUSD,Daily: open #154645997 sell 1.00 EURUSD at 1.19003 ok
+0	19:08:34.748	CCI系统 EURUSD,Daily: uninit reason 5
+0	19:08:34.764	CCI系统 EURUSD,Daily: initialized
+0	19:08:34.842	CCI系统 EURUSD,Daily inputs: CCI_period=14; volumn=0.1; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:09:02.217	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:02.558	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:09:02.559	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:02.953	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:09:02.953	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:03.297	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #136
+0	19:09:03.297	CCI系统 EURUSD,Daily: 开始卖出
+2	19:09:03.641	CCI系统 EURUSD,Daily: open #154646175 sell 1.00 EURUSD at 1.18974 ok
+0	19:09:32.499	CCI系统 EURUSD,Daily: uninit reason 2
+0	19:09:32.499	Expert CCI系统 EURUSD,Daily: removed
+0	19:09:32.499	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:09:32.515	CCI系统 GBPUSD,Daily: uninit reason 2
+0	19:09:32.515	Expert CCI系统 GBPUSD,Daily: removed
+0	19:09:32.515	CCI系统 EURUSD,Daily: initialized
+0	19:09:32.515	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	19:09:32.515	CCI系统 AUDUSD,Daily: uninit reason 2
+0	19:09:32.515	Expert CCI系统 AUDUSD,Daily: removed
+0	19:09:32.531	CCI系统 GBPUSD,Daily: initialized
+0	19:09:32.531	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	19:09:32.531	CCI系统 USDCAD,Daily: uninit reason 2
+0	19:09:32.531	Expert CCI系统 USDCAD,Daily: removed
+0	19:09:32.546	CCI系统 AUDUSD,Daily: initialized
+0	19:09:32.546	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	19:09:32.562	CCI系统 USDCAD,Daily: initialized
+0	19:09:33.093	CCI系统 EURUSD,Daily: uninit reason 2
+0	19:09:33.093	Expert CCI系统 EURUSD,Daily: removed
+0	19:09:33.093	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	19:09:33.093	CCI系统 GBPUSD,Daily: uninit reason 2
+0	19:09:33.109	Expert CCI系统 GBPUSD,Daily: removed
+0	19:09:33.109	CCI系统 EURUSD,Daily: initialized
+0	19:09:33.109	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	19:09:33.109	CCI系统 AUDUSD,Daily: uninit reason 2
+0	19:09:33.109	Expert CCI系统 AUDUSD,Daily: removed
+0	19:09:33.124	CCI系统 GBPUSD,Daily: initialized
+0	19:09:33.124	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	19:09:33.124	CCI系统 USDCAD,Daily: uninit reason 2
+0	19:09:33.124	Expert CCI系统 USDCAD,Daily: removed
+0	19:09:33.140	CCI系统 AUDUSD,Daily: initialized
+0	19:09:33.140	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	19:09:33.156	CCI系统 USDCAD,Daily: initialized
+0	19:09:40.609	CCI系统 EURUSD,Daily: uninit reason 5
+0	19:09:40.625	CCI系统 EURUSD,Daily: initialized
+0	19:09:40.655	CCI系统 EURUSD,Daily inputs: CCI_period=14; volumn=0.1; MAX_stopless=500.0; ADD_profit=200; Trailing_start=200; MAX_lose=7000; MAX_profit=2000; percent=0.1; 
+0	19:09:42.249	Automated trading disabled
+0	19:09:46.109	CCI系统 EURUSD,Daily: 开始卖出
+3	19:09:46.109	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	19:09:46.109	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:47.108	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:47.108	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:48.358	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:48.358	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:48.437	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:48.437	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:48.514	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:48.514	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:49.015	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:49.015	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:49.890	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:49.890	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:49.952	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:49.952	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:50.030	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:50.030	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:51.671	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:51.671	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:53.217	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:53.217	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:53.264	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:53.264	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:53.467	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:53.467	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:53.514	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:53.514	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:53.826	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:53.826	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:54.514	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:54.514	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:54.545	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:54.545	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:55.310	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:55.310	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:55.530	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:55.530	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:55.608	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:55.608	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:56.233	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:56.233	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:56.358	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:56.358	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:56.451	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:56.451	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:56.576	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:56.576	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:56.655	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:56.655	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:56.857	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:56.857	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:56.920	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:56.920	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:57.185	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:57.185	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:57.530	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:57.530	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:58.498	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:58.498	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:58.685	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:58.685	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:59.686	CCI系统 EURUSD,Daily: 开始卖出
+0	19:09:59.686	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	19:09:59.701	Automated trading enabled
+0	19:09:59.858	CCI系统 EURUSD,Daily: 开始卖出
+2	19:10:00.216	CCI系统 EURUSD,Daily: open #154646337 sell 0.10 EURUSD at 1.18969 ok

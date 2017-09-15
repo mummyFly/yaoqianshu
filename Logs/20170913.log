@@ -1,0 +1,14 @@
+0	11:29:53.559	Custom indicator BBI USDJPY,Daily: loaded successfully
+0	11:29:53.559	BBI USDJPY,Daily: initialized
+0	11:29:53.637	Custom indicator BBI USOil,Daily: loaded successfully
+0	11:29:53.637	BBI USOil,Daily: initialized
+0	11:29:53.699	Custom indicator BBI GBPUSD,Daily: loaded successfully
+0	11:29:53.715	BBI GBPUSD,Daily: initialized
+0	17:37:33.644	Automated trading disabled
+3	17:37:33.645	Automated trading disabled because the account has been changed
+0	18:34:56.596	BBI GBPUSD,Daily: uninit reason 9
+0	18:34:56.596	Custom indicator BBI GBPUSD,Daily: removed
+0	18:34:57.128	BBI USOil,Daily: uninit reason 9
+0	18:34:57.128	Custom indicator BBI USOil,Daily: removed
+0	18:34:57.831	BBI USDJPY,Daily: uninit reason 9
+0	18:34:57.831	Custom indicator BBI USDJPY,Daily: removed

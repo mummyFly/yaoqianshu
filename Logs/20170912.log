@@ -1,0 +1,42 @@
+0	10:18:48.308	Expert sanjiaoduicong GBPJPY,H1: loaded successfully
+0	10:18:48.308	sanjiaoduicong GBPJPY,H1 inputs: symbol1=GBPUSD; symbol2=USDJPY; symbol=GBPJPY; lots=0.01; slip=0.04; 
+0	10:18:48.433	Expert sanjiaoduicong EURCAD,H1: loaded successfully
+0	10:18:48.433	sanjiaoduicong EURCAD,H1 inputs: symbol1=EURUSD; symbol2=USDCAD; symbol=EURCAD; lots=0.01; slip=0.0004; 
+0	10:18:55.107	sanjiaoduicong GBPJPY,H1: initialized
+0	10:18:55.108	sanjiaoduicong EURCAD,H1: initialized
+0	10:18:59.588	sanjiaoduicong GBPJPY,H1: uninit reason 1
+0	10:18:59.604	Expert sanjiaoduicong GBPJPY,H1: removed
+0	10:19:03.682	sanjiaoduicong EURCAD,H1: uninit reason 1
+0	10:19:03.698	Expert sanjiaoduicong EURCAD,H1: removed
+0	11:21:28.413	Custom indicator BBI EURUSD,H1: loaded successfully
+0	11:21:32.038	BBI EURUSD,H1: initialized
+0	11:21:36.522	BBI EURUSD,H1: uninit reason 9
+0	11:21:36.585	Custom indicator BBI EURUSD,H1: removed
+0	11:21:49.803	Custom indicator BBI EURUSD,H1: loaded successfully
+0	11:21:51.600	BBI EURUSD,H1: initialized
+0	11:21:58.459	BBI EURUSD,H1: uninit reason 9
+0	11:21:58.522	Custom indicator BBI EURUSD,H1: removed
+0	11:41:58.346	Expert 白线战法 EURUSD,H1: loaded successfully
+0	11:42:01.299	白线战法 EURUSD,H1 inputs: MA_period=100; volumn=1; 
+0	11:42:01.377	白线战法 EURUSD,H1: initialized
+2	11:42:01.737	白线战法 EURUSD,H1: open #100399077 buy 1.00 EURUSD at 1.19580 ok
+0	11:42:26.189	白线战法 EURUSD,H1: uninit reason 4
+0	11:42:27.189	Expert 白线战法 EURUSD,H1: removed
+0	13:38:07.340	Custom indicator BBI XAUUSD,H4: loaded successfully
+0	13:38:09.199	BBI XAUUSD,H4: initialized
+0	16:44:27.463	Custom indicator BBI EURUSD,Daily: loaded successfully
+0	16:44:29.212	BBI EURUSD,Daily: initialized
+0	16:47:03.599	BBI XAUUSD,H4: uninit reason 3
+0	16:47:03.599	BBI XAUUSD,Daily: initialized
+0	17:01:36.265	Custom indicator BBI USDCAD,H1: loaded successfully
+0	17:01:37.296	BBI USDCAD,H1: initialized
+0	17:05:14.336	BBI USDCAD,H1: uninit reason 3
+0	17:05:14.336	BBI USDCAD,Daily: initialized
+0	17:06:25.928	Custom indicator BBI USDJPY,Daily: loaded successfully
+0	17:06:27.522	BBI USDJPY,Daily: initialized
+0	17:07:37.504	Custom indicator BBI USOil,Daily: loaded successfully
+0	17:07:38.910	BBI USOil,Daily: initialized
+0	17:09:08.590	Custom indicator BBI GBPUSD,Daily: loaded successfully
+0	17:09:09.512	BBI GBPUSD,Daily: initialized
+0	17:12:19.631	Custom indicator BBI AUDUSD,Daily: loaded successfully
+0	17:12:21.568	BBI AUDUSD,Daily: initialized

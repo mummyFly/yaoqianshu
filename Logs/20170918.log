@@ -1,0 +1,60 @@
+0	10:00:31.423	CCIϵͳ GBPUSD,Daily: uninit reason 4
+0	10:00:31.439	Expert CCIϵͳ GBPUSD,Daily: removed
+0	10:00:31.439	BBI GBPUSD,Daily: uninit reason 9
+0	10:00:31.439	Custom indicator BBI GBPUSD,Daily: removed
+0	10:00:33.501	CCIϵͳ AUDUSD,Daily: uninit reason 4
+0	10:00:33.501	Expert CCIϵͳ AUDUSD,Daily: removed
+0	10:00:35.032	CCIϵͳ USDCAD,Daily: uninit reason 4
+0	10:00:35.032	Expert CCIϵͳ USDCAD,Daily: removed
+0	10:00:48.459	CCIϵͳ EURUSD,Daily: uninit reason 5
+0	10:00:48.476	CCIϵͳ EURUSD,Daily: initialized
+0	10:00:48.506	CCIϵͳ EURUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+3	10:01:40.941	Automated trading disabled due to EA being synchronized with virtual hosting and enabled on virtual hosting
+0	10:02:54.577	CCIϵͳ EURUSD,Daily: uninit reason 1
+0	10:02:54.593	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:11:17.152	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:11:23.307	CCIϵͳ EURUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+0	10:11:23.323	CCIϵͳ EURUSD,Daily: initialized
+3	10:12:07.289	Automated trading disabled due to EA being synchronized with virtual hosting and enabled on virtual hosting
+0	10:13:55.622	Expert CCIϵͳ GBPUSD,H1: loaded successfully
+0	10:14:02.933	CCIϵͳ GBPUSD,H1 inputs: CCI_period=14; volumn=0.5; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+0	10:14:02.949	CCIϵͳ GBPUSD,H1: initialized
+0	10:14:07.152	CCIϵͳ GBPUSD,H1: uninit reason 3
+0	10:40:29.207	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:40:29.207	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:40:29.223	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:40:29.348	CCIϵͳ EURUSD,Daily: initialized
+0	10:40:29.535	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	10:40:29.535	Expert CCIϵͳ EURUSD,Daily: removed
+0	10:40:29.551	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	10:40:29.551	Expert CCIϵͳ GBPUSD,Daily: removed
+0	10:40:29.551	Expert CCIϵͳ GBPUSD,Daily: loaded successfully
+0	10:40:29.567	CCIϵͳ EURUSD,Daily: initialized
+0	10:40:29.582	CCIϵͳ GBPUSD,Daily: initialized
+0	10:40:29.801	CCIϵͳ GBPUSD,Daily: uninit reason 2
+0	10:40:29.801	Expert CCIϵͳ GBPUSD,Daily: removed
+0	10:40:29.817	Expert CCIϵͳ GBPUSD,Daily: loaded successfully
+0	10:40:29.832	CCIϵͳ GBPUSD,Daily: initialized
+0	10:46:13.129	BBI EURUSD,Daily: uninit reason 1
+0	10:46:13.129	Custom indicator BBI EURUSD,Daily: removed
+0	11:05:28.603	CCIϵͳ GBPUSD,Daily: uninit reason 4
+0	11:05:28.603	Expert CCIϵͳ GBPUSD,Daily: removed
+0	13:51:18.632	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	13:51:18.632	Expert CCIϵͳ EURUSD,Daily: removed
+0	13:51:18.647	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	13:51:18.679	CCIϵͳ EURUSD,Daily: initialized
+0	13:51:18.913	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	13:51:18.913	Expert CCIϵͳ EURUSD,Daily: removed
+0	13:51:18.913	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	13:51:18.929	CCIϵͳ EURUSD,Daily: initialized
+0	13:51:19.210	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	13:51:19.210	Expert CCIϵͳ EURUSD,Daily: removed
+0	13:51:19.226	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	13:51:19.242	CCIϵͳ EURUSD,Daily: initialized
+0	13:54:00.630	Automated trading enabled
+0	13:54:10.629	CCIϵͳ EURUSD,Daily: uninit reason 1
+0	13:54:10.646	Expert CCIϵͳ EURUSD,Daily: removed
+0	13:54:10.660	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	13:54:17.644	CCIϵͳ EURUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+0	13:54:17.660	CCIϵͳ EURUSD,Daily: initialized
+3	13:54:26.098	Automated trading disabled due to EA being synchronized with virtual hosting and enabled on virtual hosting

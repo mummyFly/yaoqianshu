@@ -250,3 +250,240 @@
 0	11:37:44.200	BBI GBPUSD,Daily: initialized
 0	11:37:44.247	Expert CCI系统 AUDUSD,Daily: loaded successfully
 0	11:37:44.247	CCI系统 AUDUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_lose=700.0; MAX_profit=200.0; Start_account=10000.0; Percent=0.1; 
+0	11:37:50.124	CCI系统 EURUSD,Daily: initialized
+0	11:37:50.124	CCI系统 AUDUSD,Daily: initialized
+3	11:37:51.194	CCI系统 AUDUSD,Daily: trade operations not allowed by settings
+3	11:37:52.554	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	11:46:33.762	CCI系统 EURUSD,Daily: uninit reason 2
+0	11:46:33.762	Expert CCI系统 EURUSD,Daily: removed
+0	11:46:33.777	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	11:46:33.777	CCI系统 AUDUSD,Daily: uninit reason 2
+0	11:46:33.777	Expert CCI系统 AUDUSD,Daily: removed
+0	11:46:33.793	CCI系统 EURUSD,Daily: initialized
+0	11:46:33.793	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	11:46:33.809	CCI系统 AUDUSD,Daily: initialized
+3	11:46:33.918	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	11:46:35.059	CCI系统 EURUSD,Daily: uninit reason 2
+0	11:46:35.059	Expert CCI系统 EURUSD,Daily: removed
+0	11:46:35.074	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	11:46:35.074	CCI系统 AUDUSD,Daily: uninit reason 2
+0	11:46:35.074	Expert CCI系统 AUDUSD,Daily: removed
+0	11:46:35.090	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	11:46:35.090	CCI系统 EURUSD,Daily: initialized
+0	11:46:35.137	CCI系统 AUDUSD,Daily: initialized
+0	11:46:35.278	CCI系统 AUDUSD,Daily: uninit reason 2
+0	11:46:35.278	Expert CCI系统 AUDUSD,Daily: removed
+0	11:46:35.293	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	11:46:35.309	CCI系统 AUDUSD,Daily: initialized
+3	11:46:35.872	CCI系统 AUDUSD,Daily: trade operations not allowed by settings
+3	11:46:35.934	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	11:51:38.272	CCI系统 EURUSD,Daily: 当前盈利：12，加仓空单
+0	11:51:38.272	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	11:51:38.302	CCI系统 AUDUSD,Daily: 当前盈利：12，加仓空单
+0	11:51:38.302	CCI系统 AUDUSD,Daily: 卖出AUDUSDOrderSend 失败错误 #4109
+0	11:51:44.552	CCI系统 EURUSD,Daily: uninit reason 2
+0	11:51:44.552	Expert CCI系统 EURUSD,Daily: removed
+0	11:51:44.567	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	11:51:44.583	CCI系统 AUDUSD,Daily: uninit reason 2
+0	11:51:44.583	Expert CCI系统 AUDUSD,Daily: removed
+0	11:51:44.583	CCI系统 EURUSD,Daily: initialized
+0	11:51:44.599	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	11:51:44.614	CCI系统 AUDUSD,Daily: initialized
+0	11:51:44.708	CCI系统 AUDUSD,Daily: uninit reason 2
+0	11:51:44.708	Expert CCI系统 AUDUSD,Daily: removed
+0	11:51:44.724	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	11:51:44.770	CCI系统 AUDUSD,Daily: initialized
+0	11:51:44.864	CCI系统 AUDUSD,Daily: uninit reason 2
+0	11:51:44.880	Expert CCI系统 AUDUSD,Daily: removed
+0	11:51:44.880	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	11:51:44.895	CCI系统 AUDUSD,Daily: initialized
+3	11:55:26.344	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+3	11:55:26.344	CCI系统 AUDUSD,Daily: trade operations not allowed by settings
+0	12:04:29.727	CCI系统 EURUSD,Daily: uninit reason 2
+0	12:04:29.727	Expert CCI系统 EURUSD,Daily: removed
+0	12:04:29.742	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	12:04:29.742	CCI系统 AUDUSD,Daily: uninit reason 2
+0	12:04:29.742	Expert CCI系统 AUDUSD,Daily: removed
+0	12:04:29.758	CCI系统 EURUSD,Daily: initialized
+0	12:04:29.758	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	12:04:29.774	CCI系统 AUDUSD,Daily: initialized
+0	12:04:30.009	CCI系统 EURUSD,Daily: uninit reason 2
+0	12:04:30.009	Expert CCI系统 EURUSD,Daily: removed
+0	12:04:30.024	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	12:04:30.024	CCI系统 AUDUSD,Daily: uninit reason 2
+0	12:04:30.024	Expert CCI系统 AUDUSD,Daily: removed
+0	12:04:30.039	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	12:04:30.071	CCI系统 AUDUSD,Daily: initialized
+0	12:04:30.117	CCI系统 EURUSD,Daily: initialized
+0	12:04:30.180	CCI系统 EURUSD,Daily: uninit reason 2
+0	12:04:30.180	Expert CCI系统 EURUSD,Daily: removed
+0	12:04:30.196	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	12:04:30.196	CCI系统 AUDUSD,Daily: uninit reason 2
+0	12:04:30.196	Expert CCI系统 AUDUSD,Daily: removed
+0	12:04:30.212	CCI系统 EURUSD,Daily: initialized
+0	12:04:30.212	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	12:04:30.227	CCI系统 AUDUSD,Daily: initialized
+3	12:04:30.227	CCI系统 AUDUSD,Daily: trade operations not allowed by settings
+3	12:04:31.696	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	12:24:22.822	CCI系统 EURUSD,Daily: 当前盈利：12，加仓空单
+0	12:24:22.822	CCI系统 EURUSD,Daily: 卖出EURUSDOrderSend 失败错误 #4109
+0	12:24:22.837	CCI系统 AUDUSD,Daily: 当前盈利：12，加仓空单
+0	12:24:22.837	CCI系统 AUDUSD,Daily: 卖出AUDUSDOrderSend 失败错误 #4109
+0	13:16:55.561	CCI系统 EURUSD,Daily: uninit reason 5
+0	13:16:55.577	CCI系统 EURUSD,Daily: initialized
+0	13:16:55.592	CCI系统 EURUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_lose=700.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+3	13:16:57.248	CCI系统 EURUSD,Daily: trade operations not allowed by settings
+0	13:17:10.873	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	13:17:26.122	CCI系统 GBPUSD,Daily inputs: CCI_period=14; volumn=0.5; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_lose=700.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+0	13:17:26.138	CCI系统 GBPUSD,Daily: initialized
+3	13:17:26.138	CCI系统 GBPUSD,Daily: trade operations not allowed by settings
+0	13:18:07.053	CCI系统 AUDUSD,Daily: uninit reason 1
+0	13:18:07.069	Expert CCI系统 AUDUSD,Daily: removed
+0	13:18:13.006	Automated trading enabled
+2	13:18:16.850	CCI系统 EURUSD,Daily: close #154781544 sell 1.00 EURUSD at 1.19062 at price 1.19141
+0	13:19:02.145	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	13:19:04.442	CCI系统 AUDUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_lose=700.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+0	13:19:04.458	CCI系统 AUDUSD,Daily: initialized
+0	13:20:09.351	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	13:20:21.320	Expert CCI系统 USDCAD,Daily: removed
+0	13:22:23.113	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	13:22:24.863	CCI系统 USDCAD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_lose=700.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+0	13:22:24.878	CCI系统 USDCAD,Daily: initialized
+0	13:22:24.878	CCI系统 USDCAD,Daily: uninit reason 1
+0	13:22:24.878	CCI系统 USDCAD,Daily: initialized
+0	15:33:54.048	CCI系统 EURUSD,Daily: uninit reason 2
+0	15:33:54.048	Expert CCI系统 EURUSD,Daily: removed
+0	15:33:54.064	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	15:33:54.064	CCI系统 GBPUSD,Daily: uninit reason 2
+0	15:33:54.064	Expert CCI系统 GBPUSD,Daily: removed
+0	15:33:54.079	CCI系统 EURUSD,Daily: initialized
+0	15:33:54.079	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	15:33:54.079	CCI系统 AUDUSD,Daily: uninit reason 2
+0	15:33:54.079	Expert CCI系统 AUDUSD,Daily: removed
+0	15:33:54.095	CCI系统 GBPUSD,Daily: initialized
+0	15:33:54.095	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	15:33:54.095	CCI系统 USDCAD,Daily: uninit reason 2
+0	15:33:54.095	Expert CCI系统 USDCAD,Daily: removed
+0	15:33:54.110	CCI系统 AUDUSD,Daily: initialized
+0	15:33:54.110	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	15:33:54.110	CCI系统 USDCAD,Daily: initialized
+0	17:56:12.826	CCI系统 EURUSD,Daily: uninit reason 2
+0	17:56:12.826	Expert CCI系统 EURUSD,Daily: removed
+0	17:56:12.842	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	17:56:12.842	CCI系统 GBPUSD,Daily: uninit reason 2
+0	17:56:12.842	Expert CCI系统 GBPUSD,Daily: removed
+0	17:56:12.858	CCI系统 EURUSD,Daily: initialized
+0	17:56:12.858	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	17:56:12.858	CCI系统 AUDUSD,Daily: uninit reason 2
+0	17:56:12.858	Expert CCI系统 AUDUSD,Daily: removed
+0	17:56:12.858	CCI系统 GBPUSD,Daily: initialized
+0	17:56:12.874	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	17:56:12.874	CCI系统 USDCAD,Daily: uninit reason 2
+0	17:56:12.874	Expert CCI系统 USDCAD,Daily: removed
+0	17:56:12.874	CCI系统 AUDUSD,Daily: initialized
+0	17:56:12.889	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	17:56:12.889	CCI系统 USDCAD,Daily: initialized
+0	17:57:06.711	CCI系统 EURUSD,Daily: uninit reason 2
+0	17:57:06.711	Expert CCI系统 EURUSD,Daily: removed
+0	17:57:06.727	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	17:57:06.727	CCI系统 GBPUSD,Daily: uninit reason 2
+0	17:57:06.727	Expert CCI系统 GBPUSD,Daily: removed
+0	17:57:06.743	CCI系统 EURUSD,Daily: initialized
+0	17:57:06.743	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	17:57:06.743	CCI系统 AUDUSD,Daily: uninit reason 2
+0	17:57:06.743	Expert CCI系统 AUDUSD,Daily: removed
+0	17:57:06.759	CCI系统 GBPUSD,Daily: initialized
+0	17:57:06.759	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	17:57:06.759	CCI系统 USDCAD,Daily: uninit reason 2
+0	17:57:06.759	Expert CCI系统 USDCAD,Daily: removed
+0	17:57:06.774	CCI系统 AUDUSD,Daily: initialized
+0	17:57:06.774	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	17:57:06.774	CCI系统 USDCAD,Daily: initialized
+0	17:57:07.133	CCI系统 EURUSD,Daily: uninit reason 2
+0	17:57:07.133	Expert CCI系统 EURUSD,Daily: removed
+0	17:57:07.149	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	17:57:07.149	CCI系统 GBPUSD,Daily: uninit reason 2
+0	17:57:07.149	Expert CCI系统 GBPUSD,Daily: removed
+0	17:57:07.165	CCI系统 EURUSD,Daily: initialized
+0	17:57:07.165	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	17:57:07.165	CCI系统 AUDUSD,Daily: uninit reason 2
+0	17:57:07.165	Expert CCI系统 AUDUSD,Daily: removed
+0	17:57:07.180	CCI系统 GBPUSD,Daily: initialized
+0	17:57:07.180	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	17:57:07.180	CCI系统 USDCAD,Daily: uninit reason 2
+0	17:57:07.180	Expert CCI系统 USDCAD,Daily: removed
+0	17:57:07.180	CCI系统 AUDUSD,Daily: initialized
+0	17:57:07.196	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	17:57:07.211	CCI系统 USDCAD,Daily: initialized
+0	17:57:42.725	CCI系统 EURUSD,Daily: uninit reason 2
+0	17:57:42.741	Expert CCI系统 EURUSD,Daily: removed
+0	17:57:42.741	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	17:57:42.741	CCI系统 GBPUSD,Daily: uninit reason 2
+0	17:57:42.741	Expert CCI系统 GBPUSD,Daily: removed
+0	17:57:42.756	CCI系统 EURUSD,Daily: initialized
+0	17:57:42.756	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	17:57:42.756	CCI系统 AUDUSD,Daily: uninit reason 2
+0	17:57:42.756	Expert CCI系统 AUDUSD,Daily: removed
+0	17:57:42.772	CCI系统 GBPUSD,Daily: initialized
+0	17:57:42.772	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	17:57:42.772	CCI系统 USDCAD,Daily: uninit reason 2
+0	17:57:42.772	Expert CCI系统 USDCAD,Daily: removed
+0	17:57:42.788	CCI系统 AUDUSD,Daily: initialized
+0	17:57:42.788	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	17:57:42.803	CCI系统 USDCAD,Daily: initialized
+0	17:58:13.799	CCI系统 EURUSD,Daily: uninit reason 2
+0	17:58:13.799	Expert CCI系统 EURUSD,Daily: removed
+0	17:58:13.814	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	17:58:13.814	CCI系统 GBPUSD,Daily: uninit reason 2
+0	17:58:13.814	Expert CCI系统 GBPUSD,Daily: removed
+0	17:58:13.814	CCI系统 EURUSD,Daily: initialized
+0	17:58:13.830	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	17:58:13.830	CCI系统 AUDUSD,Daily: uninit reason 2
+0	17:58:13.830	Expert CCI系统 AUDUSD,Daily: removed
+0	17:58:13.846	CCI系统 GBPUSD,Daily: initialized
+0	17:58:13.846	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	17:58:13.846	CCI系统 USDCAD,Daily: uninit reason 2
+0	17:58:13.846	Expert CCI系统 USDCAD,Daily: removed
+0	17:58:13.846	CCI系统 AUDUSD,Daily: initialized
+0	17:58:13.861	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	17:58:13.861	CCI系统 USDCAD,Daily: initialized
+0	18:02:12.918	Automated trading disabled
+3	18:02:12.919	Automated trading disabled because the account has been changed
+0	18:02:16.463	CCI系统 EURUSD,Daily: uninit reason 6
+0	18:02:16.471	CCI系统 GBPUSD,Daily: uninit reason 6
+0	18:02:16.471	CCI系统 EURUSD,Daily: initialized
+0	18:02:16.486	CCI系统 GBPUSD,Daily: initialized
+0	18:02:16.486	CCI系统 USDCAD,Daily: uninit reason 6
+0	18:02:16.502	CCI系统 AUDUSD,Daily: uninit reason 6
+0	18:02:16.502	CCI系统 USDCAD,Daily: initialized
+0	18:02:16.517	CCI系统 AUDUSD,Daily: initialized
+0	18:47:46.245	CCI系统 EURUSD,Daily: uninit reason 6
+0	18:47:46.254	CCI系统 EURUSD,Daily: initialized
+0	18:47:46.254	CCI系统 GBPUSD,Daily: uninit reason 6
+0	18:47:46.270	CCI系统 GBPUSD,Daily: initialized
+0	18:47:46.270	CCI系统 USDCAD,Daily: uninit reason 6
+0	18:47:46.285	CCI系统 AUDUSD,Daily: uninit reason 6
+0	18:47:46.285	CCI系统 USDCAD,Daily: initialized
+0	18:47:46.301	CCI系统 AUDUSD,Daily: initialized
+0	18:47:58.499	Automated trading enabled
+0	18:51:40.446	CCI系统 EURUSD,Daily: uninit reason 2
+0	18:51:40.462	Expert CCI系统 EURUSD,Daily: removed
+0	18:51:40.462	Expert CCI系统 EURUSD,Daily: loaded successfully
+0	18:51:40.462	CCI系统 GBPUSD,Daily: uninit reason 2
+0	18:51:40.462	Expert CCI系统 GBPUSD,Daily: removed
+0	18:51:40.478	CCI系统 EURUSD,Daily: initialized
+0	18:51:40.478	Expert CCI系统 GBPUSD,Daily: loaded successfully
+0	18:51:40.478	CCI系统 AUDUSD,Daily: uninit reason 2
+0	18:51:40.478	Expert CCI系统 AUDUSD,Daily: removed
+0	18:51:40.493	CCI系统 GBPUSD,Daily: initialized
+0	18:51:40.493	Expert CCI系统 AUDUSD,Daily: loaded successfully
+0	18:51:40.493	CCI系统 USDCAD,Daily: uninit reason 2
+0	18:51:40.493	Expert CCI系统 USDCAD,Daily: removed
+0	18:51:40.509	CCI系统 AUDUSD,Daily: initialized
+0	18:51:40.509	Expert CCI系统 USDCAD,Daily: loaded successfully
+0	18:51:40.524	CCI系统 USDCAD,Daily: initialized
+0	18:55:32.200	CCI系统 USDCAD,Daily: uninit reason 5
+0	18:55:32.232	CCI系统 USDCAD,Daily: initialized
+0	18:55:32.325	CCI系统 USDCAD,Daily inputs: CCI_period=14; volumn=0.5; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
+3	19:05:15.381	Automated trading disabled due to EA being synchronized with virtual hosting and enabled on virtual hosting
+0	19:05:25.474	Automated trading enabled

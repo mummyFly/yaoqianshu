@@ -2639,3 +2639,49 @@
 0	14:10:55.838	BBI EURUSD,M30: uninit reason 3
 0	14:10:55.853	BBI EURUSD,Daily: initialized
 0	14:16:00.785	Compiling 'MA均线系统'
+0	18:24:35.579	Script 数据周期自动转换 GBPUSD,M1: loaded successfully
+0	18:24:35.734	数据周期自动转换 GBPUSD,M1: initialized
+0	18:24:39.422	数据周期自动转换 GBPUSD,M1: Alert: 周期:5 | 1218844 数据写入
+0	18:24:41.178	数据周期自动转换 GBPUSD,M1: Alert: 周期:15 | 406857 数据写入
+0	18:24:42.228	数据周期自动转换 GBPUSD,M1: Alert: 周期:30 | 203725 数据写入
+0	18:24:42.907	数据周期自动转换 GBPUSD,M1: Alert: 周期:60 | 102148 数据写入
+0	18:24:43.407	数据周期自动转换 GBPUSD,M1: Alert: 周期:240 | 25859 数据写入
+0	18:24:43.849	数据周期自动转换 GBPUSD,M1: Alert: 周期:1440 | 4321 数据写入
+0	18:24:43.855	数据周期自动转换 GBPUSD,M1: uninit reason 0
+0	18:24:43.855	数据周期自动转换 GBPUSD,M1: Alert: 完成.
+0	18:24:43.861	Script 数据周期自动转换 GBPUSD,M1: removed
+0	18:25:05.645	Script 数据周期自动转换 USDCAD,M1: loaded successfully
+0	18:25:05.864	数据周期自动转换 USDCAD,M1: initialized
+0	18:25:09.582	数据周期自动转换 USDCAD,M1: Alert: 周期:5 | 1214068 数据写入
+0	18:25:11.197	数据周期自动转换 USDCAD,M1: Alert: 周期:15 | 406565 数据写入
+0	18:25:12.258	数据周期自动转换 USDCAD,M1: Alert: 周期:30 | 203699 数据写入
+0	18:25:12.970	数据周期自动转换 USDCAD,M1: Alert: 周期:60 | 102152 数据写入
+0	18:25:13.619	数据周期自动转换 USDCAD,M1: Alert: 周期:240 | 25861 数据写入
+0	18:25:14.025	数据周期自动转换 USDCAD,M1: Alert: 周期:1440 | 4321 数据写入
+0	18:25:14.031	数据周期自动转换 USDCAD,M1: uninit reason 0
+0	18:25:14.031	数据周期自动转换 USDCAD,M1: Alert: 完成.
+0	18:25:14.059	Script 数据周期自动转换 USDCAD,M1: removed
+0	18:26:03.600	Script 数据周期自动转换 GBPUSD,M1: loaded successfully
+0	18:26:03.757	数据周期自动转换 GBPUSD,M1: initialized
+0	18:26:05.761	数据周期自动转换 GBPUSD,M1: Alert: 周期:5 | 654525 数据写入
+0	18:26:06.760	数据周期自动转换 GBPUSD,M1: Alert: 周期:15 | 218406 数据写入
+0	18:26:07.369	数据周期自动转换 GBPUSD,M1: Alert: 周期:30 | 109366 数据写入
+0	18:26:07.868	数据周期自动转换 GBPUSD,M1: Alert: 周期:60 | 54844 数据写入
+0	18:26:08.139	数据周期自动转换 GBPUSD,M1: Alert: 周期:240 | 13884 数据写入
+0	18:26:08.381	数据周期自动转换 GBPUSD,M1: Alert: 周期:1440 | 2320 数据写入
+0	18:26:08.397	数据周期自动转换 GBPUSD,M1: uninit reason 0
+0	18:26:08.397	数据周期自动转换 GBPUSD,M1: Alert: 完成.
+0	18:26:08.397	Script 数据周期自动转换 GBPUSD,M1: removed
+0	18:30:37.063	Script 数据周期自动转换 GBPUSD,M1: loaded successfully
+0	18:30:37.189	数据周期自动转换 GBPUSD,M1: initialized
+0	18:30:39.142	数据周期自动转换 GBPUSD,M1: Alert: 周期:5 | 654525 数据写入
+0	18:30:40.088	数据周期自动转换 GBPUSD,M1: Alert: 周期:15 | 218406 数据写入
+0	18:30:40.620	数据周期自动转换 GBPUSD,M1: Alert: 周期:30 | 109366 数据写入
+0	18:30:41.036	数据周期自动转换 GBPUSD,M1: Alert: 周期:60 | 54844 数据写入
+0	18:30:41.363	数据周期自动转换 GBPUSD,M1: Alert: 周期:240 | 13884 数据写入
+0	18:30:41.614	数据周期自动转换 GBPUSD,M1: Alert: 周期:1440 | 2320 数据写入
+0	18:30:41.630	数据周期自动转换 GBPUSD,M1: uninit reason 0
+0	18:30:41.630	数据周期自动转换 GBPUSD,M1: Alert: 完成.
+0	18:30:41.748	Script 数据周期自动转换 GBPUSD,M1: removed
+0	18:57:23.712	BBI EURUSD,Daily: uninit reason 9
+0	18:57:23.712	Custom indicator BBI EURUSD,Daily: removed

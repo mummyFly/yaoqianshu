@@ -58,3 +58,350 @@
 0	13:54:17.644	CCIϵͳ EURUSD,Daily inputs: CCI_period=14; volumn=1.0; MAX_stopless=50.0; ADD_profit=20.0; Trailing_start=20.0; MAX_profit=200.0; Start_account=10000.0; IS_add_order=true; Percent=0.6; 
 0	13:54:17.660	CCIϵͳ EURUSD,Daily: initialized
 3	13:54:26.098	Automated trading disabled due to EA being synchronized with virtual hosting and enabled on virtual hosting
+0	14:08:18.781	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:08:18.781	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:08:18.781	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:08:18.797	CCIϵͳ EURUSD,Daily: initialized
+0	14:08:19.125	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:08:19.125	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:08:19.140	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:08:19.156	CCIϵͳ EURUSD,Daily: initialized
+0	14:31:36.113	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:31:36.113	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:31:36.129	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:31:36.144	CCIϵͳ EURUSD,Daily: initialized
+0	14:31:37.207	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:31:37.207	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:31:37.222	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:31:37.238	CCIϵͳ EURUSD,Daily: initialized
+0	14:31:37.426	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:31:37.426	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:31:37.441	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:31:37.457	CCIϵͳ EURUSD,Daily: initialized
+0	14:34:31.311	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:34:31.311	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:34:31.326	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:34:31.373	CCIϵͳ EURUSD,Daily: initialized
+0	14:34:31.467	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:34:31.467	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:34:31.483	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:34:31.498	CCIϵͳ EURUSD,Daily: initialized
+0	14:36:27.395	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:36:27.395	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:36:27.410	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:36:27.426	CCIϵͳ EURUSD,Daily: initialized
+0	14:36:28.145	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:36:28.145	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:36:28.160	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:36:28.176	CCIϵͳ EURUSD,Daily: initialized
+0	14:38:21.010	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:38:21.010	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:38:21.026	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:38:21.041	CCIϵͳ EURUSD,Daily: initialized
+0	14:38:21.248	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:38:21.248	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:38:21.260	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:38:21.276	CCIϵͳ EURUSD,Daily: initialized
+0	14:45:45.810	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:45:45.810	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:45:45.826	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:45:45.841	CCIϵͳ EURUSD,Daily: initialized
+0	14:45:46.263	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:45:46.263	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:45:46.279	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:45:46.279	CCIϵͳ EURUSD,Daily: initialized
+0	14:45:46.404	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:45:46.404	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:45:46.419	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:45:46.435	CCIϵͳ EURUSD,Daily: initialized
+0	14:45:46.638	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:45:46.638	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:45:46.654	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:45:46.670	CCIϵͳ EURUSD,Daily: initialized
+0	14:47:35.244	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:47:35.244	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:47:35.260	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:47:35.275	CCIϵͳ EURUSD,Daily: initialized
+0	14:55:36.374	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:55:36.374	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:55:36.389	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:55:36.405	CCIϵͳ EURUSD,Daily: initialized
+0	14:55:37.202	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:55:37.202	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:55:37.217	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:55:37.234	CCIϵͳ EURUSD,Daily: initialized
+0	14:55:44.415	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:55:44.415	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:55:44.415	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:55:44.430	CCIϵͳ EURUSD,Daily: initialized
+0	14:55:45.211	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	14:55:45.211	Expert CCIϵͳ EURUSD,Daily: removed
+0	14:55:45.211	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	14:55:45.228	CCIϵͳ EURUSD,Daily: initialized
+0	15:01:06.359	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:01:06.359	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:01:06.374	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:01:06.390	CCIϵͳ EURUSD,Daily: initialized
+0	15:01:06.546	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:01:06.562	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:01:06.562	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:01:06.593	CCIϵͳ EURUSD,Daily: initialized
+0	15:01:06.796	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:01:06.812	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:01:06.812	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:01:06.828	CCIϵͳ EURUSD,Daily: initialized
+0	15:05:04.680	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:05:04.680	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:05:04.696	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:05:04.727	CCIϵͳ EURUSD,Daily: initialized
+0	15:05:04.946	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:05:04.962	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:05:04.962	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:05:04.977	CCIϵͳ EURUSD,Daily: initialized
+0	15:05:05.149	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:05:05.149	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:05:05.165	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:05:05.165	CCIϵͳ EURUSD,Daily: initialized
+0	15:05:13.273	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:05:13.273	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:05:13.289	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:05:13.305	CCIϵͳ EURUSD,Daily: initialized
+0	15:08:49.087	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:08:49.087	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:08:49.103	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:08:49.103	CCIϵͳ EURUSD,Daily: initialized
+0	15:08:49.243	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:08:49.243	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:08:49.259	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:08:49.274	CCIϵͳ EURUSD,Daily: initialized
+0	15:09:18.304	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:09:18.304	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:09:18.304	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:09:18.320	CCIϵͳ EURUSD,Daily: initialized
+0	15:26:46.209	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:26:46.209	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:26:46.225	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:26:46.240	CCIϵͳ EURUSD,Daily: initialized
+0	15:26:50.162	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:26:50.162	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:26:50.162	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:26:50.178	CCIϵͳ EURUSD,Daily: initialized
+0	15:29:02.094	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:29:02.094	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:29:02.109	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:29:02.125	CCIϵͳ EURUSD,Daily: initialized
+0	15:29:02.250	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:29:02.250	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:29:02.266	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:29:02.281	CCIϵͳ EURUSD,Daily: initialized
+0	15:37:11.936	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:37:11.936	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:37:11.952	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:37:11.967	CCIϵͳ EURUSD,Daily: initialized
+0	15:37:12.108	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:37:12.108	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:37:12.124	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:37:12.124	CCIϵͳ EURUSD,Daily: initialized
+0	15:48:31.177	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:48:31.177	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:48:31.193	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:48:31.208	CCIϵͳ EURUSD,Daily: initialized
+0	15:48:31.427	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	15:48:31.427	Expert CCIϵͳ EURUSD,Daily: removed
+0	15:48:31.443	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	15:48:31.459	CCIϵͳ EURUSD,Daily: initialized
+0	16:04:14.162	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:04:14.162	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:04:14.177	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:04:14.224	CCIϵͳ EURUSD,Daily: initialized
+0	16:04:14.380	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:04:14.380	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:04:14.396	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:04:14.396	CCIϵͳ EURUSD,Daily: initialized
+0	16:05:07.643	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:05:07.643	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:05:07.658	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:05:07.674	CCIϵͳ EURUSD,Daily: initialized
+0	16:10:47.682	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:10:47.682	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:10:47.682	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:10:47.714	CCIϵͳ EURUSD,Daily: initialized
+0	16:10:47.932	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:10:47.948	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:10:47.948	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:10:47.964	CCIϵͳ EURUSD,Daily: initialized
+0	16:27:26.831	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:27:26.831	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:27:26.847	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:27:26.862	CCIϵͳ EURUSD,Daily: initialized
+0	16:27:27.018	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:27:27.018	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:27:27.034	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:27:27.050	CCIϵͳ EURUSD,Daily: initialized
+0	16:34:17.841	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:34:17.841	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:34:17.857	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:34:17.873	CCIϵͳ EURUSD,Daily: initialized
+0	16:34:18.029	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:34:18.029	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:34:18.044	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:34:18.060	CCIϵͳ EURUSD,Daily: initialized
+0	16:36:04.025	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:36:04.040	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:36:04.040	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:36:04.056	CCIϵͳ EURUSD,Daily: initialized
+0	16:36:04.306	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:36:04.306	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:36:04.322	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:36:04.322	CCIϵͳ EURUSD,Daily: initialized
+0	16:36:15.149	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:36:15.149	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:36:15.149	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:36:15.165	CCIϵͳ EURUSD,Daily: initialized
+0	16:36:15.290	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:36:15.306	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:36:15.321	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:36:15.337	CCIϵͳ EURUSD,Daily: initialized
+0	16:36:15.556	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:36:15.556	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:36:15.572	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:36:15.572	CCIϵͳ EURUSD,Daily: initialized
+0	16:38:14.589	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:38:14.589	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:38:14.604	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:38:14.604	CCIϵͳ EURUSD,Daily: initialized
+0	16:38:15.292	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:38:15.292	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:38:15.307	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:38:15.323	CCIϵͳ EURUSD,Daily: initialized
+0	16:46:40.708	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:46:40.708	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:46:40.723	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:46:40.739	CCIϵͳ EURUSD,Daily: initialized
+0	16:48:11.015	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:48:11.015	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:48:11.030	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:48:11.030	CCIϵͳ EURUSD,Daily: initialized
+0	16:49:38.257	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:49:38.257	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:49:38.272	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:49:38.288	CCIϵͳ EURUSD,Daily: initialized
+0	16:49:41.272	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:49:41.272	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:49:41.288	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:49:41.304	CCIϵͳ EURUSD,Daily: initialized
+0	16:54:44.477	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:54:44.477	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:54:44.492	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:54:44.523	CCIϵͳ EURUSD,Daily: initialized
+0	16:54:44.633	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:54:44.633	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:54:44.648	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:54:44.648	CCIϵͳ EURUSD,Daily: initialized
+0	16:54:44.774	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:54:44.774	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:54:44.789	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:54:44.805	CCIϵͳ EURUSD,Daily: initialized
+0	16:54:45.008	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	16:54:45.008	Expert CCIϵͳ EURUSD,Daily: removed
+0	16:54:45.024	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	16:54:45.024	CCIϵͳ EURUSD,Daily: initialized
+0	17:06:57.354	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	17:06:57.354	Expert CCIϵͳ EURUSD,Daily: removed
+0	17:06:57.370	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	17:06:57.401	CCIϵͳ EURUSD,Daily: initialized
+0	17:06:57.542	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	17:06:57.542	Expert CCIϵͳ EURUSD,Daily: removed
+0	17:06:57.557	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	17:06:57.573	CCIϵͳ EURUSD,Daily: initialized
+0	17:19:53.485	CCIϵͳ EURUSD,Daily: uninit reason 2
+0	17:19:53.485	Expert CCIϵͳ EURUSD,Daily: removed
+0	17:19:53.501	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	17:19:53.516	CCIϵͳ EURUSD,Daily: initialized
+0	17:43:02.805	CCIϵͳ EURUSD,Daily: uninit reason 6
+0	17:43:02.813	CCIϵͳ EURUSD,Daily: initialized
+0	17:43:55.486	CCIϵͳ EURUSD,Daily: uninit reason 6
+0	17:43:55.497	CCIϵͳ EURUSD,Daily: initialized
+0	17:43:55.763	CCIϵͳ EURUSD,Daily: ��ʼ����
+0	17:43:55.763	CCIϵͳ EURUSD,Daily: cci0:22.82433983927308,cci1:-7.351141924957783
+3	17:43:55.763	CCIϵͳ EURUSD,Daily: trade operations not allowed by settings
+0	17:43:55.763	CCIϵͳ EURUSD,Daily: ����EURUSDOrderSend ʧ�ܴ��� #4109
+0	17:45:38.710	CCIϵͳ EURUSD,Daily: uninit reason 1
+0	17:45:38.726	Expert CCIϵͳ EURUSD,Daily: removed
+0	17:45:38.742	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	17:46:00.928	Expert CCIϵͳ EURUSD,Daily: removed
+0	18:25:28.222	Expert CCIϵͳ EURUSD,Daily: loaded successfully
+0	18:25:42.627	CCIϵͳ EURUSD,Daily inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.1; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=500.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	18:25:42.642	CCIϵͳ EURUSD,Daily: initialized
+0	18:29:08.412	CCIϵͳ EURUSD,Daily: uninit reason 5
+0	18:29:08.443	CCIϵͳ EURUSD,Daily: initialized
+0	18:29:08.458	CCIϵͳ EURUSD,Daily inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=500.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	19:40:42.146	CCIϵͳ EURUSD,Daily: uninit reason 3
+0	19:40:42.162	CCIϵͳ EURUSD,H4: initialized
+0	20:36:12.817	CCIϵͳ EURUSD,H4: uninit reason 6
+0	20:36:12.831	CCIϵͳ EURUSD,H4: initialized
+3	20:36:14.435	CCIϵͳ EURUSD,H4: trade operations not allowed by settings
+0	20:36:53.772	CCIϵͳ EURUSD,H4: uninit reason 6
+0	20:36:53.778	CCIϵͳ EURUSD,H4: initialized
+0	20:37:14.189	CCIϵͳ EURUSD,H4: uninit reason 6
+0	20:37:14.190	CCIϵͳ EURUSD,H4: initialized
+3	20:37:14.457	CCIϵͳ EURUSD,H4: trade operations not allowed by settings
+0	20:38:01.888	CCIϵͳ EURUSD,H4: uninit reason 1
+0	20:38:01.904	Expert CCIϵͳ EURUSD,H4: removed
+0	20:38:01.919	Expert CCIϵͳ EURUSD,H4: loaded successfully
+0	20:38:08.575	CCIϵͳ EURUSD,H4 inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=500.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	20:38:08.591	CCIϵͳ EURUSD,H4: initialized
+3	20:38:15.279	CCIϵͳ EURUSD,H4: trade operations not allowed by settings
+0	21:13:26.885	CCIϵͳ EURUSD,H4: uninit reason 6
+0	21:13:26.892	CCIϵͳ EURUSD,H4: initialized
+0	21:16:36.033	CCIϵͳ EURUSD,H4: uninit reason 2
+0	21:16:36.049	Expert CCIϵͳ EURUSD,H4: removed
+0	21:16:36.049	Expert CCIϵͳ EURUSD,H4: loaded successfully
+0	21:16:36.064	CCIϵͳ EURUSD,H4: initialized
+0	21:16:36.221	CCIϵͳ EURUSD,H4: uninit reason 2
+0	21:16:36.221	Expert CCIϵͳ EURUSD,H4: removed
+0	21:16:36.236	Expert CCIϵͳ EURUSD,H4: loaded successfully
+0	21:16:36.252	CCIϵͳ EURUSD,H4: initialized
+0	21:16:36.455	CCIϵͳ EURUSD,H4: uninit reason 2
+0	21:16:36.455	Expert CCIϵͳ EURUSD,H4: removed
+0	21:16:36.471	Expert CCIϵͳ EURUSD,H4: loaded successfully
+0	21:16:36.471	CCIϵͳ EURUSD,H4: initialized
+0	21:20:41.457	CCIϵͳ EURUSD,H4: uninit reason 6
+0	21:20:41.463	CCIϵͳ EURUSD,H4: initialized
+0	21:26:11.344	CCIϵͳ EURUSD,H4: uninit reason 9
+0	21:26:11.421	Expert CCIϵͳ EURUSD,H4: removed
+0	21:27:08.473	Expert CCIϵͳ EURUSD,H4: loaded successfully
+0	21:27:08.473	CCIϵͳ EURUSD,H4 inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=500.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	21:27:12.954	CCIϵͳ EURUSD,H4: initialized
+0	22:08:19.223	CCIϵͳ EURUSD,H4: uninit reason 5
+0	22:08:19.239	CCIϵͳ EURUSD,H4: initialized
+0	22:08:19.317	CCIϵͳ EURUSD,H4 inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=50.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	22:29:20.323	Expert CCIϵͳ USDCAD,H1: loaded successfully
+0	22:29:27.961	CCIϵͳ USDCAD,H1 inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=50.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	22:29:28.008	CCIϵͳ USDCAD,H1: initialized
+0	22:29:38.087	CCIϵͳ EURUSD,H4: uninit reason 2
+0	22:29:38.087	Expert CCIϵͳ EURUSD,H4: removed
+0	22:29:38.102	Expert CCIϵͳ EURUSD,H4: loaded successfully
+0	22:29:38.102	CCIϵͳ USDCAD,H1: uninit reason 2
+0	22:29:38.102	Expert CCIϵͳ USDCAD,H1: removed
+0	22:29:38.118	Expert CCIϵͳ USDCAD,H1: loaded successfully
+0	22:29:38.118	CCIϵͳ EURUSD,H4: initialized
+0	22:29:38.133	CCIϵͳ USDCAD,H1: initialized
+0	22:30:13.021	CCIϵͳ USDCAD,H1: uninit reason 3
+0	22:30:13.037	CCIϵͳ USDCAD,H4: initialized
+0	22:31:23.322	Expert CCIϵͳ AUDUSD,H4: loaded successfully
+0	22:31:32.534	CCIϵͳ AUDUSD,H4 inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=50.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	22:31:32.550	CCIϵͳ AUDUSD,H4: initialized
+0	22:31:37.378	Expert CCIϵͳ USDCAD,H4: loaded successfully
+0	22:31:41.253	CCIϵͳ USDCAD,H4 inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=50.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	22:31:41.268	CCIϵͳ USDCAD,H4: initialized
+0	22:31:46.862	CCIϵͳ USDCAD,H4: uninit reason 4
+0	22:31:46.862	Expert CCIϵͳ USDCAD,H4: removed
+0	22:31:53.846	Expert CCIϵͳ GBPUSD,H4: loaded successfully
+0	22:31:58.673	CCIϵͳ GBPUSD,H4 inputs: CCI_period=14; Dynamic_order_volumn=true; volumn=0.5; Start_account=10000.0; Is_add_order=true; ADD_profit=20.0; Is_trailing_profit=true; Trailing_start=20.0; Is_max_stopless=true; MAX_stopless=50.0; Is_max_profit=true; MAX_profit=2000.0; Percent=0.6; 
+0	22:31:58.705	CCIϵͳ GBPUSD,H4: initialized
+0	22:55:18.669	CCIϵͳ AUDUSD,H4: ��ǰӯ����5���Ӳֿյ�
+3	22:55:18.669	CCIϵͳ AUDUSD,H4: trade operations not allowed by settings
+0	22:55:18.669	CCIϵͳ AUDUSD,H4: ����AUDUSDOrderSend ʧ�ܴ��� #4109
+0	22:55:18.669	CCIϵͳ AUDUSD,H4: ��ǰӯ����5����ʼƽ��
+0	22:55:18.779	CCIϵͳ AUDUSD,H4: ��ǰӯ����5.02����ʼƽ��
